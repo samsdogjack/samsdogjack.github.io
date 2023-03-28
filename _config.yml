@@ -44,8 +44,8 @@ social:
     - https://twitter.com/dokkenfan1989 # change to your twitter homepage
     - https://github.com/samsdogjack # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-      https://www.linkedin.com/in/shanespillman
+     #- https://www.facebook.com/shanespillman
+    - https://www.linkedin.com/in/shanespillman
 
 google_site_verification: # fill in to your verification string
 
