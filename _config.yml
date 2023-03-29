@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: https://github.com/samsdogjack/samsdogjack.github.io/blob/main/images/computer-user.png?raw=true
 
 # boolean type, the global switch for TOC in posts.
 toc: true
