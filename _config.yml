@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: HomeLab # the main title
 
-tagline: A techie blog for projects, stories, code and photos. # it will display as the sub-title
+tagline: A tech blog for projects, stories, code and how-to's. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   lists, updates, photos, stories and technical writing.
