@@ -1,0 +1,1 @@
+[![Build and Deploy](https://github.com/samsdogjack/samsdogjack.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/samsdogjack/samsdogjack.github.io/actions/workflows/pages-deploy.yml)
