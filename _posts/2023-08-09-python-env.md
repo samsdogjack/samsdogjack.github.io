@@ -1,5 +1,5 @@
 ---
-title: setting up python virtual enviroment
+title: Setting up python virtual enviroment
 date: 2023-08-09 11:11:11 -0500
 catergories: [python, linux, mac os]
 tags: [how-to, coding]
