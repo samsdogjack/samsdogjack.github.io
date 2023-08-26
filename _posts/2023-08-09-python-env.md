@@ -1,5 +1,5 @@
 ---
-title: Setting up python virtual enviroment
+title: Setting up python virtual environment
 date: 2023-08-09 11:11:11 -0500
 catergories: [python, linux, mac os]
 tags: [how-to, coding]
@@ -7,9 +7,9 @@ tags: [how-to, coding]
 
 ![alt text for screen readers](/images/python_logo.png "python")
 
-## In this post we will look at how to set up a virtual enviroment in python.
+## In this post we will look at how to set up a virtual environment in python.
 
-### The folder that we will use will be a project folder for a upcoming project we can build and use the virtual enviroment to contain the libraries we will need to make it work.
+### The folder that we will use will be a project folder for a upcoming project we can build and use the virtual environment to contain the libraries we will need to make it work.
 
 ### You can create a directory for this project any where you like but for this example we can use the home directory.
 
@@ -28,12 +28,12 @@ cd 'name_of_your_folder
 python3 -m venv venv
 ```
 
-### Now you can activate the enviroment.
+### Now you can activate the environment.
 ```
 source venv/bin/activate
 ```
 
-### Now the project folder and virtual enviroment have been created and you are ready to start your project. When you are ready to leave the project you can simply type ```deactivate``` in terminal. The virtual enviroment will always be available to reactivate from your project folder.
+### Now the project folder and virtual environment have been created and you are ready to start your project. When you are ready to leave the project you can simply type ```deactivate``` in terminal. The virtual environment will always be available to reactivate from your project folder.
 
 
 
