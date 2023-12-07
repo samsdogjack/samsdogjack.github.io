@@ -9,7 +9,7 @@
 
 ***
 
-- Software Developer | Computer Repair Technician | Small Business Owner
+>- Software Developer | Computer Repair Technician | Small Business Owner
 
 <p>With a background in software development, computer repair, and entrepreneurship, I bring a variety of experience to various projects. My journey includes diverse roles that have shaped my understanding of technology and business dynamics.
 
