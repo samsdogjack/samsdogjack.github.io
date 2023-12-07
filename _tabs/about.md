@@ -7,9 +7,9 @@
 
 #### Hi, I'm Shane! A Software Engineer from Winston Salem, NC. I graduated from NC State with a degree in Software Development and have been working in the field ever since.
 
-### Software Developer | Computer Repair Technician | Small Business Owner
+<p style="text-align: center;">Software Developer | Computer Repair Technician | Small Business Ownert</p>
 
-<p> With a background in software development, computer repair, and entrepreneurship, I bring a variety of experience to various projects. My journey includes diverse roles that have shaped my understanding of technology and business dynamics.</p>
+<!-- <p> With a background in software development, computer repair, and entrepreneurship, I bring a variety of experience to various projects. My journey includes diverse roles that have shaped my understanding of technology and business dynamics.</p>
 
 <p> My areas of expertise span setting up environments, programming in Python and JavaScript, web development, software development, Linux maintenance, and deployment. I have a proven track record of effectively interacting with clients, understanding their requirements, and delivering high-quality solutions.</p>
 
@@ -19,7 +19,7 @@
 
 <p> I am constantly expanding my knowledge and currently exploring the exciting field of cybersecurity, seeking to further enhance my coding abilities. In addition to my professional endeavors, I actively contribute to the programming community. I am in the process of establishing a programmers group that will foster knowledge sharing and collaboration. Through monthly meetings and an online presence, we aim to create a vibrant community for programmers to exchange ideas and support one another.</p>
 
-<p> If you are seeking a dedicated and motivated software developer with a passion for continuous learning and a strong work ethic, let's connect and explore potential opportunities to collaborate.</p>
+<p> If you are seeking a dedicated and motivated software developer with a passion for continuous learning and a strong work ethic, let's connect and explore potential opportunities to collaborate.</p> -->
 ***
 
 ***
