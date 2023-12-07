@@ -7,7 +7,7 @@
 
 #### Hi, I'm Shane! A Software Engineer from Winston Salem, NC. I graduated from NC State with a degree in Software Development and have been working in the field ever since.
 
-<p style="text-align: center;">Software Developer | Computer Repair Technician | Small Business Ownert</p>
+<p style="text-align: center;">Software Developer | Computer Repair Technician | Small Business Owner</p>
 
 <!-- <p> With a background in software development, computer repair, and entrepreneurship, I bring a variety of experience to various projects. My journey includes diverse roles that have shaped my understanding of technology and business dynamics.</p>
 
