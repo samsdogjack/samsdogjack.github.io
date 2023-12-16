@@ -4,6 +4,7 @@
  order: 4
 ---
 
+[![Build and Deploy](https://github.com/samsdogjack/samsdogjack.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/samsdogjack/samsdogjack.github.io/actions/workflows/pages-deploy.yml)
 
 #### Hi, I'm Shane! A Software Engineer from Winston Salem, NC. I graduated from NC State with a degree in Software Development and have been working in the field ever since.
 
