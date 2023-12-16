@@ -30,7 +30,7 @@
 
 **Winston Salem, NC** \|
 [**[shanespillman@protonmail.com]**](mailto:shanespillman@protonmail.com)
-<a href="tel:+1(336)624-8595" style="color:">+1(336)624-8595</a>
+<a href="tel:+1(336)624-8595" style="color:">**+1(336)624-8595**</a>
 <!--\|[336-624-8595](336-624-8595)\|-->
 
 [**[www.linkedin.com/in/shanespillman]**](http://www.linkedin.com/in/shanespillman)
@@ -67,7 +67,7 @@ products that are functional and beautiful. </h4>
 **Security:** Identity & Access Management (IAM), Multi-factor authentication
 
 
-**FULL-STACK DEVELOPMENT PROJECTS**
+**DEVELOPMENT PROJECTS**
 ---
 ***
 **Project: secret-password - NCSU\|**
