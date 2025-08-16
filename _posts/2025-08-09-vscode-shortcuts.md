@@ -1,3 +1,11 @@
+---
+title: VS Code Shortcuts for mac
+date: 2025-8-14 11:11:11 -005
+categories: [mac]
+tags: [how-to, coding]
+---
+
+
 # Here are some neat tricks and shortcuts for working with HTML, CSS, and general productivity in VS Code:
 
 <span style="color:#007acc"><strong>## Emmet Abbreviations (HTML & CSS)</strong></span>
@@ -43,4 +51,4 @@
 ### Prettier: Auto-format code.
 ### Live Server: Auto-refresh browser on save.
 ### Lorem Ipsum: Insert placeholder text.
-### Auto Rename Tag: Renames paired HTML tags.
+### Auto Rename Tag: Renames paired HTML tags
