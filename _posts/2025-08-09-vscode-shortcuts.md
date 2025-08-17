@@ -13,7 +13,7 @@ tags: [how-to, coding]
 ### ```div*5``` → Creates 5 divs.
 ### ```ul>li*3``` → Creates a list with 3 items.
 ### ```.class``` → Creates ```<div class="class"></div>```
-### a```[href=```"https://example.com"```]{Visit}``` → Creates a link.
+### ```[href=```"https://example.com"```]{Visit}``` → Creates a link.
 ### ```img:src``` → Creates an ```<img src="">``` tag.
 ### ``table>tr*2>td*3`` → Creates a table with 2 rows, 3 columns.
 
