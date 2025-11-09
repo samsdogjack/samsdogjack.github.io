@@ -20,14 +20,22 @@ mkdir 'name_your_folder'
 
 ### After the folder in made you will change directory into the folder. Use the following command.
 ```
-cd 'name_of_your_folder
+cd name_of_your_folder
 ```
 
 ### Once you are in the directory of the folder you created run this command.
 ```
 python3 -m venv venv
 ```
-
+### Also a specific version can be set for the venv. This can be helpful for working with specific versions of python when needed for comapatability.
+### Version in homebrews path.
+```
+/opt/homebrew/bin/python3 -m venv venv
+``` 
+### For a specific version in homebrew.
+```
+ /opt/homebrew/opt/python@3.12/bin/python3.12 -m venv venv
+ ```
 ### Now you can activate the environment.
 ```
 source venv/bin/activate
