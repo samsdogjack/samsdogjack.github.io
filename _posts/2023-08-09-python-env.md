@@ -34,7 +34,7 @@ python3 -m venv venv
 ``` 
 ### For a specific version in homebrew.
 ```
- /opt/homebrew/opt/python@3.12/bin/python3.12 -m venv venv
+/opt/homebrew/opt/python@3.12/bin/python3.12 -m venv venv
  ```
 ### Now you can activate the environment.
 ```
