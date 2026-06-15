@@ -1,26 +1,31 @@
 ---
 # the default layout is 'page'
- icon: fas fa-info-circle
- order: 4
+icon: fas fa-info-circle
+order: 4
 ---
 
-[![Build and Deploy](https://github.com/samsdogjack/samsdogjack.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/samsdogjack/samsdogjack.github.io/actions/workflows/pages-deploy.yml)
+I'm Shane Spillman - a full-stack web developer, iOS developer, and designer based in Winston-Salem, NC. HomeLab is where I document the things I'm building, the tools I'm using, and the solutions I've worked through so I don't forget them (and maybe save someone else the trouble).
 
-#### Hi, I'm Shane! A Software Engineer from Winston Salem, NC. I graduated from NC State with a degree in Software Development and have been working in the field ever since.
+## What I Do
 
-<p style="text-align: center;">Software Developer | Computer Repair Technician | Small Business Owner</p>
+My work spans a few different areas:
 
-<!-- <p> With a background in software development, computer repair, and entrepreneurship, I bring a variety of experience to various projects. My journey includes diverse roles that have shaped my understanding of technology and business dynamics.</p>
+**Web development** is my home base - full-stack projects ranging from quick utilities to production apps. I'm comfortable across the whole stack and spend a lot of time thinking about developer experience and clean code.
 
-<p> My areas of expertise span setting up environments, programming in Python and JavaScript, web development, software development, Linux maintenance, and deployment. I have a proven track record of effectively interacting with clients, understanding their requirements, and delivering high-quality solutions.</p>
+**iOS development** - I built [Safe in Sound](https://oddbot.dev), a volume limiter app for kids that keeps headphone listening at safe levels. Shipping something to the App Store teaches you things that no tutorial covers.
 
-<p> Throughout my career, I have successfully owned and operated a restaurant, which has honed my skills in multitasking, problem-solving, and delivering exceptional customer service. This experience has instilled in me a deep understanding of the challenges faced by small business owners.</p>
+**Design** - icon design and UI/UX are part of how I think about software. Good design and good code aren't separate concerns.
 
-<p> I thrive on tackling complex problems and finding innovative solutions. My detail-oriented approach allows me to meticulously test and troubleshoot issues, ensuring optimal performance and user satisfaction.
+**Data and analytics** - I built [lottopickle.com](https://lottopickle.com), a data science project that analyzes lottery number frequency patterns. It started as an excuse to dig into data pipelines and ended up being a fun rabbit hole.
 
-<p> I am constantly expanding my knowledge and currently exploring the exciting field of cybersecurity, seeking to further enhance my coding abilities. In addition to my professional endeavors, I actively contribute to the programming community. I am in the process of establishing a programmers group that will foster knowledge sharing and collaboration. Through monthly meetings and an online presence, we aim to create a vibrant community for programmers to exchange ideas and support one another.</p>
+## What HomeLab Covers
 
-<p> If you are seeking a dedicated and motivated software developer with a passion for continuous learning and a strong work ethic, let's connect and explore potential opportunities to collaborate.</p> -->
+This site is a working dev blog - practical how-tos, tool breakdowns, and notes from actual projects. Posts tend to be the kind of thing I wish I'd found on Google: specific, reproducible, and skipping the preamble. If you're a developer who learns by building things, it'll probably be useful.
 
+Topics include web dev, iOS, Linux, self-hosted tools, shell scripting, and whatever else I'm figuring out at the time.
 
+## Get in Touch
 
+- **GitHub:** [samsdogjack](https://github.com/samsdogjack)
+- **LinkedIn:** [shanespillman](https://www.linkedin.com/in/shanespillman)
+- **Portfolio:** [oddbot.dev](https://oddbot.dev)

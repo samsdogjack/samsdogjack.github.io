@@ -1,0 +1,106 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <radialGradient id="bgGrad" cx="70%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#001A2E"/>
+      <stop offset="100%" stop-color="#0F1117"/>
+    </radialGradient>
+    <radialGradient id="glowVSCode" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#007ACC" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#007ACC" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="iconGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <!-- Glow orb -->
+  <ellipse cx="880" cy="280" rx="380" ry="300" fill="url(#glowVSCode)" opacity="0.7"/>
+
+  <!-- Grid lines -->
+  <g stroke="#007ACC" stroke-opacity="0.06" stroke-width="1">
+    <line x1="0" y1="105" x2="1200" y2="105"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+    <line x1="0" y1="525" x2="1200" y2="525"/>
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+  </g>
+
+  <!-- VS Code icon - geometric -->
+  <!-- Outer shape: stylized < > brackets forming the VS Code logo -->
+  <g transform="translate(700, 140)" filter="url(#iconGlow)">
+    <!-- Left outer piece -->
+    <path d="M 0 70 L 60 0 L 60 30 L 20 70 L 60 110 L 60 140 Z" fill="#007ACC" opacity="0.9"/>
+    <!-- Right top piece -->
+    <path d="M 200 0 L 200 50 L 100 90 L 100 50 Z" fill="#007ACC" opacity="0.9"/>
+    <!-- Right bottom piece -->
+    <path d="M 200 90 L 200 140 L 100 90 Z" fill="#007ACC" opacity="0.7"/>
+    <!-- Center connector -->
+    <path d="M 60 30 L 100 50 L 100 90 L 60 110 Z" fill="#2BA9E0" opacity="0.85"/>
+  </g>
+
+  <!-- Keyboard shortcut key chips - right side -->
+  <g transform="translate(700, 330)">
+    <!-- Row 1 -->
+    <rect x="0" y="0" width="90" height="44" rx="8" fill="#0D1520" stroke="#007ACC" stroke-opacity="0.5" stroke-width="1.5"/>
+    <text x="45" y="28" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#007ACC" text-anchor="middle" font-weight="600">⌘ + D</text>
+
+    <rect x="104" y="0" width="90" height="44" rx="8" fill="#0D1520" stroke="#007ACC" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="149" y="28" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#007ACC" text-anchor="middle" font-weight="600">⌘ + P</text>
+
+    <rect x="208" y="0" width="100" height="44" rx="8" fill="#0D1520" stroke="#007ACC" stroke-opacity="0.35" stroke-width="1.5"/>
+    <text x="258" y="28" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#007ACC" text-anchor="middle" font-weight="600">⌘ + /</text>
+
+    <!-- Row 2 -->
+    <rect x="0" y="56" width="130" height="44" rx="8" fill="#0D1520" stroke="#007ACC" stroke-opacity="0.3" stroke-width="1.5"/>
+    <text x="65" y="84" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#007ACC" text-anchor="middle" font-weight="600">⌥ ⇧ + F</text>
+
+    <rect x="144" y="56" width="90" height="44" rx="8" fill="#0D1520" stroke="#007ACC" stroke-opacity="0.25" stroke-width="1.5"/>
+    <text x="189" y="84" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#007ACC" text-anchor="middle" font-weight="600">F2</text>
+
+    <rect x="248" y="56" width="60" height="44" rx="8" fill="#0D1520" stroke="#007ACC" stroke-opacity="0.2" stroke-width="1.5"/>
+    <text x="278" y="84" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#007ACC" text-anchor="middle" font-weight="600">...</text>
+  </g>
+
+  <!-- Accent line -->
+  <rect x="80" y="155" width="5" height="150" rx="3" fill="#007ACC" filter="url(#glow)"/>
+
+  <!-- Main title -->
+  <text x="108" y="230" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="80" font-weight="800" fill="#007ACC" letter-spacing="-2" filter="url(#softGlow)">VS Code</text>
+  <text x="108" y="322" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="800" fill="#FFFFFF" letter-spacing="-2">Shortcuts</text>
+  <text x="108" y="400" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="800" fill="#3399CC" letter-spacing="-2" opacity="0.8">for Mac</text>
+
+  <!-- Subtitle -->
+  <text x="108" y="450" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#7A8A9A" letter-spacing="1">Emmet, multi-cursor, navigation + more</text>
+
+  <!-- Bottom separator line -->
+  <line x1="80" y1="575" x2="1120" y2="575" stroke="#007ACC" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- Site name -->
+  <text x="1120" y="606" font-family="'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#007ACC" fill-opacity="0.45" text-anchor="end" letter-spacing="3">HOMELAB</text>
+</svg>

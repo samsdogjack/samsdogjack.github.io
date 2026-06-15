@@ -1,8 +1,11 @@
 ---
 title: Setting up python virtual environment
 date: 2023-08-09 11:11:11 -0500
-catergories: [python, linux, mac os]
-tags: [how-to, coding]
+categories: [Python, Linux, Mac OS]
+tags: [how-to, code]
+image:
+  path: /images/posts/python-env.svg
+  alt: Setting up Python virtual environments on Mac
 ---
 
 ![alt text for screen readers](/images/python_logo.png "python")

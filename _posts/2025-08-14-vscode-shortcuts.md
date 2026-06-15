@@ -1,8 +1,11 @@
 ---
 title: VSCode Shortcuts for mac
-date: 2025-8-14 11:11:11 -005
-categories: [mac]
-tags: [how-to, coding]
+date: 2025-08-14 11:11:11 -0500
+categories: [Mac OS]
+tags: [how-to, code]
+image:
+  path: /images/posts/vscode-shortcuts.svg
+  alt: VS Code keyboard shortcuts for Mac
 ---
 
 

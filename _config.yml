@@ -23,7 +23,7 @@ title: HomeLab # the main title
 tagline: A tech blog for projects, stories, code and how-to's. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  lists, updates, photos, stories and technical writing.
+  Dev how-tos, tools, and coding tips from Shane Spillman - a full-stack and iOS developer building things in Winston-Salem, NC.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://samsdogjack.github.io"
