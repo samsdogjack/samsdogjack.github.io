@@ -8,8 +8,6 @@ image:
   alt: Setting up Python virtual environments on Mac
 ---
 
-![alt text for screen readers](/images/python_logo.png "python")
-
 ## In this post we will look at how to set up a virtual environment in python.
 
 ### The folder that we will use will be a project folder for a upcoming project we can build and use the virtual environment to contain the libraries we will need to make it work.
